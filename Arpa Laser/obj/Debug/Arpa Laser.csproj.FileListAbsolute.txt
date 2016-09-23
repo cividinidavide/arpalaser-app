@@ -1,0 +1,35 @@
+C:\Users\Davide\Desktop\Arpa Laser\Controllo C#\Arpa Laser\Arpa Laser\bin\Debug\Arpa Laser.exe.config
+C:\Users\Davide\Desktop\Arpa Laser\Controllo C#\Arpa Laser\Arpa Laser\bin\Debug\Arpa Laser.exe
+C:\Users\Davide\Desktop\Arpa Laser\Controllo C#\Arpa Laser\Arpa Laser\bin\Debug\Arpa Laser.pdb
+C:\Users\Davide\Desktop\Arpa Laser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa_Laser.Form1.resources
+C:\Users\Davide\Desktop\Arpa Laser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa_Laser.Properties.Resources.resources
+C:\Users\Davide\Desktop\Arpa Laser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa Laser.csproj.GenerateResource.Cache
+C:\Users\Davide\Desktop\Arpa Laser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa Laser.exe
+C:\Users\Davide\Desktop\Arpa Laser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa Laser.pdb
+C:\Users\Davide\Desktop\Arpa Laser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa Laser.csprojResolveAssemblyReference.cache
+C:\Users\Davide\Desktop\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\bin\Debug\Arpa Laser.exe.config
+C:\Users\Davide\Desktop\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa Laser.exe
+C:\Users\Davide\Desktop\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa Laser.pdb
+C:\Users\Davide\Desktop\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\bin\Debug\Arpa Laser.exe
+C:\Users\Davide\Desktop\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\bin\Debug\Arpa Laser.pdb
+C:\Users\Davide\Desktop\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa Laser.csprojResolveAssemblyReference.cache
+C:\Users\Davide\Desktop\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa_Laser.Form1.resources
+C:\Users\Davide\Desktop\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa_Laser.Properties.Resources.resources
+C:\Users\Davide\Desktop\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa Laser.csproj.GenerateResource.Cache
+G:\Scuola\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\bin\Debug\Arpa Laser.exe.config
+G:\Scuola\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa Laser.exe
+G:\Scuola\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa Laser.pdb
+D:\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\bin\Debug\Arpa Laser.exe.config
+D:\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa Laser.exe
+D:\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa Laser.pdb
+D:\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\bin\Debug\Arpa Laser.exe
+D:\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\bin\Debug\Arpa Laser.pdb
+D:\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa Laser.csprojResolveAssemblyReference.cache
+D:\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa_Laser.Form1.resources
+D:\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa_Laser.Properties.Resources.resources
+D:\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa Laser.csproj.GenerateResource.Cache
+D:\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\bin\Debug\Interop.WMPLib.dll
+D:\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\bin\Debug\AxInterop.WMPLib.dll
+D:\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Interop.WMPLib.dll
+D:\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\AxInterop.WMPLib.dll
+D:\Tesina_ArpaLaser\Controllo C#\Arpa Laser\Arpa Laser\obj\Debug\Arpa Laser.csproj.ResolveComReference.cache
